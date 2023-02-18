@@ -1,0 +1,17 @@
+
+Introduction
+
+While this course is the second programming course in our Computer Science curriculum, following CSCI 151 – Programming for Scientists and Engineers, our focus is going to change from <how do I write some code to solve this particular problem>, to <how do I create efficient software components that can be reused in many different situations>.  Another difference is that we are going to switch from the C language to C++.  But don’t worry — the C++ language has many similarities with C, and was developed as an extension to the language to help people build reusable and robust data types. For this reason, the basic syntax is the same, and so nearly everything of what you have learned up to this point in CSCI 151 still applies to C++.
+
+While we will spend several lessons learning how to program in C++, the main purpose of the course is to help you answer the following two questions (which are suggested by the name of the course itself):
+
+    What are the fundamental ways of storing data (data structures) that have proven to be successful over time?
+    How can I decide when to use one for a given problem?
+    How do I do I implement these data structures in a way that is efficient (Performance)?
+    (Actually, what does it mean to be efficient? How does one define it?)
+
+As we have mentioned in CSCI 151, the best way to learn programming is by doing it, and this also applies to CSCI 152.  So, before you get too far along, you should get your computer or laptop set up to do some C++ programming.  We advise our students to install Linux, as this is the enviornment in which we will be testing your code.  We will also be using a memory-checking tool called Valgrind (which is only implemented for Linux) to test your code for proper memory allocation, usage, and deallocation, which happen to be the biggest sources of problems when writing data structures in C++.
+
+If you are a Windows user, and do not want to install a second operating system on your computer, another alternative would be to install <Ubuntu for Windows>, which allows you to run Linux natively in Windows from a command line.  (Prof. Tyler tends to use this approach, since his screen recording software is in Windows)  
+
+Installation details can be found under the <Installation> tab.
